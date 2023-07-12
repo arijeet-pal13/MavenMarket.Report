@@ -10,7 +10,7 @@ To add a data source, go to the Get data option. Then, select the data source yo
 * MavenMarket_Transactions_1997.csv
 * MavenMarket_Transactions_1998.csv
 
-In Power Query Editor Transform all the data as needed. Load the data in Power BI
+In Power Query Editor Transform and Clean all the data as needed then Load the data in Power BI.
 
 ### Data Model
 In the Relationship tab, you can see the relationship between data sources. When you add multiple data sources to Power BI visualization, the tool automatically tries to detect the relationship between the columns. When you navigate to the Relationship tab, you can view the relationship. You can also create a Relationship between the columns using Create Relationships option.
