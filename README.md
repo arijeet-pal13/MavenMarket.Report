@@ -27,4 +27,5 @@ Here the relationship between tables is called 'Star Schema'. Star schema is a m
 ![image](https://github.com/arijeet-pal13/MavenMarket.Report/assets/84266230/b5092067-b677-4fb6-a2c6-d84713bdc324)
 
 * This is a ToolTip Page. It is used to add some extra information in our visuals.
+
 ![image](https://github.com/arijeet-pal13/MavenMarket.Report/assets/84266230/61eea627-f873-4cc3-aa36-ab35d444ba33)
